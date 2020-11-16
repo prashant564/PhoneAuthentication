@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneAuth</string>
+    <string name="phone_auth">Phone Auth</string>
+    <string name="enter_otp">Enter OTP</string>
+</resources>
